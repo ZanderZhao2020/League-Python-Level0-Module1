@@ -11,3 +11,7 @@
 * After all the riddles have been asked, tell the user how many they got
   correct
 """
+from tkinter import simpledialog
+
+Correct = 0
+if simpledialog.askstring("What i")
